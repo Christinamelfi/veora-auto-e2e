@@ -9,7 +9,10 @@ Complete end-to-end test suite for Veora Auto using Playwright. This suite cover
 | **Authentication** | 6 | Login, logout, password reset, session persistence |
 | **Dossiers** | 8 | Create, read, update, filter, timeline |
 | **Inspection** | 9 | Checklists (identity, exterior, interior, mechanical), VIN check, auto-save |
-| **Purchase/Acquisition** | 9 | Confirmation, payment, reception, costs, margin |
+| **Purchase/Acquisition** | 9 | Confir
+---
+
+**Status**: ✅ E2E test suite ready to runmation, payment, reception, costs, margin |
 | **TOTAL** | **32** | **✅ All critical paths** |
 
 ## 🚀 Quick Start
